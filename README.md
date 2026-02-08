@@ -5,13 +5,12 @@
 
 💻 Studying Information Systems  
 
-🛠 QA Engineer | Functional, Manual & Regression Testing
+🛠 QA Engineer | Functional, Manual & Regression Testing |
 
 🚀 Passionate about tech & software development
 
 ## Contact
 
-[![Meu perfil na DIO](https://img.shields.io/badge/DIO.me-000?style=for-the-badge\&logo=dio\&logoColor=white)](https://web.dio.me/users/duarterodriguesdaniela)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/danielarduarte)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/duardanie/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/elladuarte)
