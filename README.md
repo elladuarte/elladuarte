@@ -1,9 +1,10 @@
 # Daniela Duarte Rodrigues
 
 ## About me
-🎓 Business Administration | 💻 Studying Information Systems
+🎓 Business Administration | 
+💻 Studying Information Systems
 🛠 QA Engineer | Functional, Manual & Regression Testing
-🚀 Passionate about tech, test automation & software development
+🚀 Passionate about tech & software development
 
 ## Contact
 
