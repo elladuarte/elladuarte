@@ -10,7 +10,7 @@
 🎵📷 Passionate about music and photography.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/danielarduarte)
-[![VSCO](https://img.shields.io/badge/VSCO-Portfolio-black?style=for-the-badge)](https://vsco.co/elladuartte)
+[![VSCO](https://img.shields.io/badge/VSCO-black?style=for-the-badge)](https://vsco.co/elladuartte)
 ---
 
 ### 🤖 Technologies and Tools
