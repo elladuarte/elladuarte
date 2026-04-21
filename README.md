@@ -37,8 +37,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserve
     src="https://github-readme-stats.vercel.app/api?username=elladuarte&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
+<p>
   <img 
-    align="left" 
     alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladuarte&theme=tokyonight&layout=compact" 
